@@ -1,0 +1,5 @@
+pyqrcode==1.2.1
+Pillow==7.1.2
+pypng==0.0.20 
+
+// pip3 -r requirements.txt (run file usinf this command and it will download all the dependencies which are used in this).
