@@ -5,5 +5,8 @@ Libraries used are PyQrcode, Pillow and pypng.
 
 
 
-https://user-images.githubusercontent.com/44574478/166100038-fc1c9ca7-e31f-46ae-a704-1389710d70a7.mp4
+
+https://user-images.githubusercontent.com/44574478/166100157-bc8e3422-f26a-4428-b199-b65f8e6e9377.mp4
+
+
 
